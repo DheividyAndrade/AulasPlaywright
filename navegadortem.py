@@ -1,3 +1,5 @@
+# Abrir um navegador temporario
+
 from playwright.sync_api import sync_playwright
 
 # Abrir um navegador temporario

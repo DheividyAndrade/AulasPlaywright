@@ -1,4 +1,5 @@
 # Abrir um navegador persistente 
+
 from playwright.sync_api import sync_playwright
 
 
